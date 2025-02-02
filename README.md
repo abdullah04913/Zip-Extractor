@@ -34,8 +34,8 @@ To use this tool, follow these steps:
 
 ## Credits
 
-This tool is developed by **Codiify**. If you have any questions or suggestions, feel free to open an issue or pull request on the GitHub repository.
+This tool is developed by **abdullahcoded.blogspot.com**. If you have any questions or suggestions, feel free to open an issue or pull request on the GitHub repository.
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [ABS License](LICENSE).
